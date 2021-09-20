@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body {
+   background: #444;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
+}
+
+nav,ul,li{
+ list-style-type: none;
+ float: left;
+ padding: 7px;
+ 
+}
+header{
+	background: #008B8B;
+	width: 100%;
+	height: 70px;
+	color: #fff;
+}
+
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: center;
+} 
